@@ -13,5 +13,3 @@ this project is a production-ready high-frequency trading system designed and im
 - sample strategies: market making, execution algorithms (vwap, twap, pov), and latency arbitrage
 - comprehensive unit tests and performance benchmarks
 
-## project structure
-
